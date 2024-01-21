@@ -29,5 +29,5 @@ jobs:
       run: |
         make test
     - name: Format code with Black
-      run:
+      run: |
         make format
